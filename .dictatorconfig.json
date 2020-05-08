@@ -1,10 +1,11 @@
 {
-    "ignore": [
-      "/README.md",
-      "/.github",
-      "/app",
-      "/package.json",
-      "/package-lock.json",
-      "/Changelod.md"
-    ]
-  }
+  "ignore": [
+    "/README.md",
+    "/.github/*",
+    "/.github/**/*",
+    "/app",
+    "/package.json",
+    "/package-lock.json",
+    "/Changelod.md"
+  ]
+}

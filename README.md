@@ -1,4 +1,4 @@
-# Haffaz Example
+# React Boilerplate Example
 
 An example usage of [dictator-react-boilerplate](https://github.com/tomasbjerre/dictator-react-boilerplate).
 
