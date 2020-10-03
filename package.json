@@ -3,9 +3,9 @@
   "version": "1.2.3",
   "description": "asdasasd",
   "scripts": {
-    "prepare": "dictator-react-boilerplate",
+    "prepare": "dictator-react-boilerplate"
   },
   "devDependencies": {
-    "dictator-react-boilerplate": "0.0.4",
+    "dictator-react-boilerplate": "0.0.4"
   }
 }
