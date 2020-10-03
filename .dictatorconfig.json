@@ -4,7 +4,6 @@
     "/.github/*",
     "/.github/**/*",
     "/app",
-    "/package.json",
     "/package-lock.json",
     "/Changelod.md"
   ]
