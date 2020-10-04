@@ -6,6 +6,6 @@
     "prepare": "dictator-react-boilerplate"
   },
   "devDependencies": {
-    "dictator-react-boilerplate": "0.0.8"
+    "dictator-react-boilerplate": "0.0.10"
   }
 }
